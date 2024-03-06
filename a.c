@@ -4,6 +4,10 @@ void hello() {
     printf("hello\n");
 }
 
+void world() {
+    printf("world\n");
+}
+
 void foo() {
     printf("foo\n");
 }
@@ -14,6 +18,6 @@ int main() {
     foo();
     bar();
 
-    return 0;
+    return 1;
 }
 
