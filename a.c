@@ -22,6 +22,6 @@ int main() {
     foo();
     bar();
 
-    return 0;
+    return 1;
 }
 
